@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "iTRON\\\\Slackest\\\\": "src/"
+            "iTRON\\Slackest\\": "src/"
         }
     },
     "minimum-stability": "stable",
