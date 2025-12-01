@@ -34,7 +34,7 @@ class Slackest {
 	 *
 	 * @return bool
 	 */
-	public function send(string $message, ?string $filePath = null): bool
+	public function send(string $message = '', ?string $filePath = null): bool
 	{
 		$this->lastError = null;
 
