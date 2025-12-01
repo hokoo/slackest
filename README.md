@@ -1,6 +1,6 @@
 # slackest
 
-Simple Slack integration for sending messages to a channel and optionally attaching files.
+Simple Slack integration (PHP) for sending messages to a channel and optionally attaching files.
 
 ## Installation
 
